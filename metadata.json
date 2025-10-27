@@ -1,0 +1,5 @@
+{
+  "name": "Madrasha Management System",
+  "description": "A comprehensive dashboard for managing students, teachers, finances, and other key operations of a Madrasha. Features include KPI dashboards, student and staff management, attendance tracking, and AI-powered reporting.",
+  "requestFramePermissions": []
+}
